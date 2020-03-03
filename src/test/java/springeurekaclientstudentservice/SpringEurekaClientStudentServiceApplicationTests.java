@@ -1,4 +1,4 @@
-package com.example.howtodoinjava.springeurekaclientstudentservice;
+package springeurekaclientstudentservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
